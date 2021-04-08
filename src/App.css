@@ -1,0 +1,12 @@
+.container-fluid {
+  background-color: rgba(243, 166, 147, 0.959);
+}
+
+.card {
+  width: 100%;
+  height: 24rem;
+}
+
+.card-text {
+  font-size: 20px;
+}
